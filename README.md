@@ -67,6 +67,9 @@ Carefully align the **VG6244S580X0M1-IPEX** module over its footprint.
 - **SSD1306 OLED Display (Optional):** If mounting a display directly above the MCU, **you must place a layer of insulating Kapton or electrical tape** underneath the screen module to prevent its pins from shorting against the nRF52 board.
 - **Antenna Connection:** Snap on your IPEX pigtail and secure your **5.8GHz antenna** before plugging in USB or battery power.
 
+<img width="842" height="577" alt="image" src="https://github.com/user-attachments/assets/d42ff00a-c1bd-45c6-a2a5-ae071c2a1491" />
+
+
 ## 💻 Firmware & Software Development (Call for Devs!)
 
 **As mentioned above, there is currently no ready-to-use firmware for this specific hardware combo.** 
